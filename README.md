@@ -36,9 +36,7 @@ Requirements:
 
 In `src/` run `python3 main.py -g`
 
-![example problem input](./ss/tool_problem.png)
-
-Figure: Example problem input
+***
 
 - Machines are indexed by integers 1, 2, 3, ...
 - Jobs are indexed by capital letters A, B, C, ...
