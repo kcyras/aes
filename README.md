@@ -3,7 +3,7 @@
 ## A tool for explainable [makespan scheduling](https://en.wikipedia.org/wiki/Schedule) using [abstract argumentation frameworks](https://en.wikipedia.org/wiki/Argumentation_framework), 
 as proposed and described in the research paper [Argumentation for Explainable Scheduling](https://www.aaai.org/ojs/index.php/AAAI/article/view/4126)
 
-![tool_gui](./report/figures/tool_gui.png)
+![tool_gui](./ss/tool_gui.png)
 Figure: Tool GUI showing problem and schedule input and explanation output
 
 
@@ -37,7 +37,7 @@ Requirements:
 
 In `src/` run `python3 main.py -g`
 
-![example problem input](./report/figures/tool_problem.png)
+![example problem input](./ss/tool_problem.png)
 
 Figure: Example problem input
 
