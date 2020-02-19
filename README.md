@@ -1,7 +1,6 @@
 # ArgOpt
 
-## A tool for explainable [makespan scheduling](https://en.wikipedia.org/wiki/Schedule) using [abstract argumentation frameworks](https://en.wikipedia.org/wiki/Argumentation_framework), 
-as proposed and described in the research paper [Argumentation for Explainable Scheduling](https://www.aaai.org/ojs/index.php/AAAI/article/view/4126)
+## A tool for explainable [makespan scheduling](https://en.wikipedia.org/wiki/Schedule) using [abstract argumentation frameworks](https://en.wikipedia.org/wiki/Argumentation_framework), as proposed and described in the research paper [Argumentation for Explainable Scheduling](https://www.aaai.org/ojs/index.php/AAAI/article/view/4126)
 
 ![tool_gui](./ss/tool_gui.png)
 Figure: Tool GUI showing problem and schedule input and explanation output
